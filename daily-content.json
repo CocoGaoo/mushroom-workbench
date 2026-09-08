@@ -1,129 +1,129 @@
 {
   "date": "2026-09-08",
-  "generatedAt": "2026-09-08T10:19:55.375Z",
+  "generatedAt": "2026-09-08T10:42:50.996762+00:00",
   "courses": {
     "english": {
-      "id": "english-train",
-      "title": "A change of plan｜在英国车站改签",
-      "focus": "读完能完成三个动作：确认变化、询问替代方案、复述确认。先抓时间和地点，不必认识每个词。",
+      "id": "english-2026-09-08-3",
+      "title": "Everyday English｜药房沟通",
+      "focus": "关注问题、请求和确认三步；录下复述，第二遍只修一个问题。",
       "paragraphs": [
-        "I arrive at the station at nine in the morning. My train to Oxford leaves at half past nine, so I have time to buy a coffee. Then I look at the information board. My train is cancelled. I feel worried because I have a ticket for a walking tour at eleven.",
-        "I go to the information desk and say, “Excuse me, my train to Oxford is cancelled. Can I take another train with this ticket?” The woman checks my ticket. “Yes,” she says. “Take the ten o’clock train from platform four. You do not need to buy a new ticket.”",
-        "I want to be sure, so I ask, “Platform four, at ten? Is it a direct train?” She tells me that I need to change at Reading. I ask her to write down the name. Before I leave, I repeat the plan: “First I go to Reading, then I change for Oxford.” Now I know what to do. I send a message to the tour guide and explain that I may arrive late."
+        "Today I need to handle a problem during my trip. I have had a sore throat since yesterday. I take a breath and explain the situation in one short sentence. I give the important details first, because the other person needs to know what happened before they can help me.",
+        "Then I make a clear and polite request: ‘Is there anything suitable for this?’ I listen for the key information, especially a time, place, price, or next action. If I miss a word, I ask the other person to say it again more slowly.",
+        "Before I leave, I repeat the plan in my own words. This gives the other person a chance to correct me. I do not need perfect grammar: explain what happened, ask for what I need, and confirm what I will do next."
       ],
       "translations": [
-        "我早上九点到车站。去牛津的火车九点半出发，还有时间买咖啡。但信息板显示列车取消了，我担心赶不上十一点的步行游览。",
-        "我到问讯台询问：我的车取消了，这张票能坐别的车吗？工作人员确认可以，乘十点从四号站台出发的车，不用再买票。",
-        "我再次确认站台、时间和是否直达。得知要在雷丁换乘，我请她写下地名，然后复述行程，并给导游发消息说明可能迟到。"
+        "今天练习药房沟通。我先用一句短句说清情况：I have had a sore throat since yesterday.",
+        "接着礼貌提出请求：Is there anything suitable for this?，重点听时间、地点、价格或下一步。",
+        "离开前用自己的话复述方案。解决问题不需要完美语法，按说明、请求、确认三步即可。"
       ],
       "words": [
         [
-          "cancelled",
-          "取消了",
-          "My train is cancelled."
+          "symptom",
+          "药房沟通",
+          "I have had a sore throat since yesterday."
         ],
         [
-          "platform",
-          "站台",
-          "Which platform do I need?"
+          "explain",
+          "解释",
+          "Let me explain what happened."
         ],
         [
-          "direct",
-          "直达的",
-          "Is it a direct train?"
+          "request",
+          "请求",
+          "I have a small request."
         ],
         [
-          "change at",
-          "在某地换乘",
-          "Change at Reading."
+          "confirm",
+          "确认",
+          "Could I confirm the time?"
         ],
         [
-          "write down",
-          "写下来",
-          "Could you write it down?"
+          "slowly",
+          "慢一点",
+          "Could you speak more slowly?"
         ],
         [
-          "arrive late",
-          "迟到",
-          "I may arrive late."
+          "next",
+          "接下来",
+          "What should I do next?"
         ]
       ],
-      "remember": "遮住文章，用“发生什么→我问什么→最终怎么办”复述三句。十分钟后再说一次，明天只看标题重说；卡住再看原文。",
-      "question": "工作人员给出方案后，哪一句能确认是否需要换乘？",
+      "remember": "说明问题—提出请求—复述确认。录下复述，第二遍只修一个问题。",
+      "question": "没听清时最有效的做法是什么？",
       "options": [
-        "Is it a direct train?",
-        "Can I buy a coffee?",
-        "Is the tour interesting?"
-      ],
-      "correct": 0,
-      "explanation": "direct 表示直达。听不懂时继续问 Where do I change?，比假装听懂更能完成旅行任务。",
-      "apply": "把目的地换成 London、时间换成 2:30，写出“说明问题＋询问方案＋确认”的三句话。",
-      "example": "My train to London is cancelled. Can I take the two thirty train with this ticket? Do I need to change?"
-    },
-    "economics": {
-      "id": "econ-opportunity",
-      "title": "机会成本｜免费流量也有成本",
-      "focus": "区分现金支出和放弃的最佳替代方案。学完能解释为什么“没有花钱”不等于没有成本。",
-      "paragraphs": [
-        "机会成本，是选择一个方案时放弃的最佳替代方案的价值。它不是把所有没选的方案加在一起，也不是过去已经无法收回的投入。你今晚用一小时学习，就失去同一小时休息或运动中最有价值的那个选择；这不意味着学习不值得，而是比较必须完整。",
-        "语音房首页只有一个推荐位。把它给房间 A，即使不发补贴，也会占用原本可以给 B 的曝光。假设相似时段和相似用户中，每千次曝光 A 带来 40 次有效互动，B 带来 55 次，那么 A 相对 B 少了 15 次互动。但如果目标是新主播成长，而不是短期互动，就需要把长期供给收益也纳入判断。指标取决于决策目标。",
-        "这些数字只是演示，不是你业务的结论。真实比较要控制用户构成、时段和房间容量，还要观察用户是否只是从别处搬过来。最关键的追问是：“如果不做这件事，同样资源会用在哪里？”当替代方案说不清楚时，“成本很低”的结论通常也站不住。"
-      ],
-      "remember": "合上内容，补全一句话：“我选___，放弃的最好替代方案是___，用___比较。”明天挑一个真实排期再填一次。",
-      "question": "哪个最接近推荐位的机会成本？",
-      "options": [
-        "推荐系统去年花的开发费。",
-        "所有未推荐房间的流水之和。",
-        "被替代的最佳方案原本可能创造的价值。"
-      ],
-      "correct": 2,
-      "explanation": "过去的开发费通常已是沉没成本；机会成本关注现在这个选择放弃了什么，且是最佳可行替代方案。",
-      "apply": "写一个本周要做的功能，并列出同样人力下最好的替代方案。用同一个目标说明比较方法。",
-      "example": "做入房引导，替代方案是修复开麦失败。共同目标是新用户首日有效互动率；先估算影响人数、改善幅度与实现时间，再决定先做哪一个。"
-    },
-    "psychology": {
-      "id": "psych-fact",
-      "title": "把事实、解释和行动分开",
-      "focus": "练习识别自己的推断，不要求强行积极。目标是找到可以核实、可以行动的一小步。",
-      "paragraphs": [
-        "“领导两小时没回复”是可观察的事实，“他觉得我不行”是一个解释。解释可能成立，也可能不成立。焦虑时，我们容易把两者粘在一起，然后像坏结果已经发生一样安排下一步。把句子拆开，并不是否认感受，而是为其他可能留一点空间。",
-        "先写一条摄像机能记录的事实，再写脑中最响的解释，最后补两个同样能解释事实的原因。例如：他正在开会，或者需要更多信息。不要把替代解释当成新的确定答案；它们只是提醒你，目前证据还不够。你仍然可以觉得不安，同时暂缓给自己下结论。",
-        "接着选择一个成本很小、能得到信息的动作：明确请求回复的时间，检查是否遗漏关键材料，或先完成不依赖回复的部分。行动的目标是增加信息与可控性，不是马上消灭所有焦虑。如果此刻很累，只写“事实”和“我还不知道什么”也算完成一轮。"
-      ],
-      "remember": "记三个词：事实、解释、下一步。明天遇到一次等待回复时，不看提示试着写出三行。",
-      "question": "哪一句是可以直接观察的事实？",
-      "options": [
-        "他肯定不认可我。",
-        "我发出的消息两小时没有收到回复。",
-        "这个项目一定会失败。"
+        "假装听懂。",
+        "请对方说慢一点并复述关键信息。",
+        "只重复自己的问题。"
       ],
       "correct": 1,
-      "explanation": "未回复是观察；不认可和一定失败是推断。推断不是禁止思考，而是需要进一步证据。",
-      "apply": "选一个今天让你紧张的小事件，写出事实、你的解释、另一种可能，以及一个可做的小动作。",
-      "example": "事实：评审提出三个问题。解释：我能力不够。其他可能：方案缺少验证信息。下一步：先补最影响结论的一项数据。"
+      "explanation": "请求放慢并复述能降低听力压力和误解风险。",
+      "apply": "用药房沟通场景录一段30秒语音，包含问题、请求和确认。",
+      "example": "I have had a sore throat since yesterday. Is there anything suitable for this? Let me confirm what I should do next."
+    },
+    "economics": {
+      "id": "economics-2026-09-08-3",
+      "title": "网络效应｜人越多产品一定越好吗",
+      "focus": "关注机制、替代解释和下一步。第4轮练习。",
+      "paragraphs": [
+        "今天的核心是：用户增加只有在提高他人价值时才形成网络效应。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
+        "具体例子：人数增加可能提升热闹感，也可能降低发言机会；应分别看听众留存和上麦成功率。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
+        "应用时问三个问题：如果这个解释成立，什么会先变化？还有什么原因会造成同样现象？最小验证动作是什么？这个顺序能把模糊感受变成可检查的判断，并帮助你说明结论的边界。"
+      ],
+      "remember": "合上内容后复述：现象—机制—替代解释—验证动作。",
+      "question": "怎样避免只记住一个空洞名词？",
+      "options": [
+        "只背名称。",
+        "马上下结论。",
+        "写清机制、替代解释和验证动作。"
+      ],
+      "correct": 2,
+      "explanation": "能连接现象、机制和证据，概念才会帮助决策。",
+      "apply": "选一个今天的真实现象，写一个机制假设、一个替代解释和最小验证。",
+      "example": "人数增加可能提升热闹感，也可能降低发言机会；应分别看听众留存和上麦成功率。"
+    },
+    "psychology": {
+      "id": "psychology-2026-09-08-3",
+      "title": "实施意图｜用如果那么降低启动成本",
+      "focus": "关注机制、替代解释和下一步。第4轮练习。",
+      "paragraphs": [
+        "今天的核心是：提前把触发场景与小动作绑定。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
+        "具体例子：写‘如果我打开电脑仍不知从哪开始，那么我先写任务标题并计时五分钟’。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
+        "应用时问三个问题：如果这个解释成立，什么会先变化？还有什么原因会造成同样现象？最小验证动作是什么？这个顺序能把模糊感受变成可检查的判断，并帮助你说明结论的边界。"
+      ],
+      "remember": "合上内容后复述：现象—机制—替代解释—验证动作。",
+      "question": "怎样避免只记住一个空洞名词？",
+      "options": [
+        "只背名称。",
+        "马上下结论。",
+        "写清机制、替代解释和验证动作。"
+      ],
+      "correct": 2,
+      "explanation": "能连接现象、机制和证据，概念才会帮助决策。",
+      "apply": "选一个今天的真实现象，写一个机制假设、一个替代解释和最小验证。",
+      "example": "写‘如果我打开电脑仍不知从哪开始，那么我先写任务标题并计时五分钟’。"
     }
   },
   "news": [
     {
-      "id": "voice",
-      "title": "TikTok 把语音、投票和更多图片带进评论区",
+      "id": "gdi-2026-09-08-0",
+      "title": "Only three tickets left for GDI’s Leaders’ Lunch on September 15th",
       "date": "2026-09-07",
-      "url": "https://www.globaldatinginsights.com/featured/tiktok-adds-voice-comments-polls-and-richer-photo-replies/",
-      "summary": "GDI 报道 TikTok 增加语音评论、投票及多图回复。语音评论最长一分钟，将面向成年用户逐步推出。"
+      "summary": "Global Dating Insights has announced that just three tickets remain for its upcoming Leaders’ Lunch, with senior executives from across The post Only three tickets left for GDI’s Leaders’ Lunch on September 15th first appeared on Global Dating Insights . The p",
+      "url": "https://www.globaldatinginsights.com/featured/only-three-tickets-left-for-gdis-leaders-lunch-on-september-15th/"
     },
     {
-      "id": "premium",
-      "title": "EliteSingles 推出每月 499 美元的高价会员",
+      "id": "gdi-2026-09-08-1",
+      "title": "Match Group Expands AI Matchmaking Tools Across Europe",
       "date": "2026-09-07",
-      "url": "https://www.globaldatinginsights.com/featured/elitesingles-introduces-499-monthly-membership-tier/",
-      "summary": "GDI 报道 Elite Select 提供优先访问、更多可见性及人工礼宾支持，瞄准希望获得更精细服务的用户。"
+      "summary": "Match Group is expanding its use of artificial intelligence across its European dating services, introducing matchmaking and safety features designed The post Match Group Expands AI Matchmaking Tools Across Europe first appeared on Global Dating Insights . The",
+      "url": "https://www.globaldatinginsights.com/featured/match-group-expands-ai-matchmaking-tools-across-europe/"
     },
     {
-      "id": "ai",
-      "title": "Match Group 向欧洲扩展 AI 匹配与安全功能",
+      "id": "gdi-2026-09-08-2",
+      "title": "EliteSingles Introduces $499 Monthly Membership Tier",
       "date": "2026-09-07",
-      "url": "https://www.globaldatinginsights.com/featured/match-group-expands-ai-matchmaking-tools-across-europe/",
-      "summary": "据 GDI 报道，Match Group 正在欧洲扩展 AI 推荐与安全功能，并关注当地隐私要求。报道尚不能证明它们已带来留存增长。"
+      "summary": "EliteSingles has introduced a new membership tier priced at $499 for one month, targeting users willing to pay more for The post EliteSingles Introduces $499 Monthly Membership Tier first appeared on Global Dating Insights . The post EliteSingles Introduces $4",
+      "url": "https://www.globaldatinginsights.com/featured/elitesingles-introduces-499-monthly-membership-tier/"
     }
   ]
 }
