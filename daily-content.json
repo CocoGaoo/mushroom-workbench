@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-08",
-  "generatedAt": "2026-09-08T10:42:50.996762+00:00",
+  "date": "2026-09-09",
+  "generatedAt": "2026-09-08T23:16:22.440679+00:00",
   "courses": {
     "english": {
-      "id": "english-2026-09-08-3",
-      "title": "Everyday English｜药房沟通",
+      "id": "english-2026-09-09-3",
+      "title": "Everyday English｜旅行团集合",
       "focus": "关注问题、请求和确认三步；录下复述，第二遍只修一个问题。",
       "paragraphs": [
-        "Today I need to handle a problem during my trip. I have had a sore throat since yesterday. I take a breath and explain the situation in one short sentence. I give the important details first, because the other person needs to know what happened before they can help me.",
-        "Then I make a clear and polite request: ‘Is there anything suitable for this?’ I listen for the key information, especially a time, place, price, or next action. If I miss a word, I ask the other person to say it again more slowly.",
+        "Today I need to handle a problem during my trip. I booked the morning walking tour. I take a breath and explain the situation in one short sentence. I give the important details first, because the other person needs to know what happened before they can help me.",
+        "Then I make a clear and polite request: ‘Could you show me the meeting point?’ I listen for the key information, especially a time, place, price, or next action. If I miss a word, I ask the other person to say it again more slowly.",
         "Before I leave, I repeat the plan in my own words. This gives the other person a chance to correct me. I do not need perfect grammar: explain what happened, ask for what I need, and confirm what I will do next."
       ],
       "translations": [
-        "今天练习药房沟通。我先用一句短句说清情况：I have had a sore throat since yesterday.",
-        "接着礼貌提出请求：Is there anything suitable for this?，重点听时间、地点、价格或下一步。",
+        "今天练习旅行团集合。我先用一句短句说清情况：I booked the morning walking tour.",
+        "接着礼貌提出请求：Could you show me the meeting point?，重点听时间、地点、价格或下一步。",
         "离开前用自己的话复述方案。解决问题不需要完美语法，按说明、请求、确认三步即可。"
       ],
       "words": [
         [
-          "symptom",
-          "药房沟通",
-          "I have had a sore throat since yesterday."
+          "meeting point",
+          "旅行团集合",
+          "I booked the morning walking tour."
         ],
         [
           "explain",
@@ -57,16 +57,16 @@
       ],
       "correct": 1,
       "explanation": "请求放慢并复述能降低听力压力和误解风险。",
-      "apply": "用药房沟通场景录一段30秒语音，包含问题、请求和确认。",
-      "example": "I have had a sore throat since yesterday. Is there anything suitable for this? Let me confirm what I should do next."
+      "apply": "用旅行团集合场景录一段30秒语音，包含问题、请求和确认。",
+      "example": "I booked the morning walking tour. Could you show me the meeting point? Let me confirm what I should do next."
     },
     "economics": {
-      "id": "economics-2026-09-08-3",
-      "title": "网络效应｜人越多产品一定越好吗",
+      "id": "economics-2026-09-09-3",
+      "title": "沉没成本｜已经投入很多还要继续吗",
       "focus": "关注机制、替代解释和下一步。第4轮练习。",
       "paragraphs": [
-        "今天的核心是：用户增加只有在提高他人价值时才形成网络效应。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
-        "具体例子：人数增加可能提升热闹感，也可能降低发言机会；应分别看听众留存和上麦成功率。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
+        "今天的核心是：过去且不可收回的投入不应决定下一步。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
+        "具体例子：评估旧活动时用未来新增收益与未来成本比较，不因已投入运营工时就继续低效活动。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
         "应用时问三个问题：如果这个解释成立，什么会先变化？还有什么原因会造成同样现象？最小验证动作是什么？这个顺序能把模糊感受变成可检查的判断，并帮助你说明结论的边界。"
       ],
       "remember": "合上内容后复述：现象—机制—替代解释—验证动作。",
@@ -79,15 +79,15 @@
       "correct": 2,
       "explanation": "能连接现象、机制和证据，概念才会帮助决策。",
       "apply": "选一个今天的真实现象，写一个机制假设、一个替代解释和最小验证。",
-      "example": "人数增加可能提升热闹感，也可能降低发言机会；应分别看听众留存和上麦成功率。"
+      "example": "评估旧活动时用未来新增收益与未来成本比较，不因已投入运营工时就继续低效活动。"
     },
     "psychology": {
-      "id": "psychology-2026-09-08-3",
-      "title": "实施意图｜用如果那么降低启动成本",
+      "id": "psychology-2026-09-09-3",
+      "title": "注意力残留｜频繁切换为何更累",
       "focus": "关注机制、替代解释和下一步。第4轮练习。",
       "paragraphs": [
-        "今天的核心是：提前把触发场景与小动作绑定。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
-        "具体例子：写‘如果我打开电脑仍不知从哪开始，那么我先写任务标题并计时五分钟’。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
+        "今天的核心是：切换后部分注意仍停留在上一件事。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
+        "具体例子：结束任务前写一句下一步和卡点，再切换；回来时直接从记录继续。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
         "应用时问三个问题：如果这个解释成立，什么会先变化？还有什么原因会造成同样现象？最小验证动作是什么？这个顺序能把模糊感受变成可检查的判断，并帮助你说明结论的边界。"
       ],
       "remember": "合上内容后复述：现象—机制—替代解释—验证动作。",
@@ -100,30 +100,30 @@
       "correct": 2,
       "explanation": "能连接现象、机制和证据，概念才会帮助决策。",
       "apply": "选一个今天的真实现象，写一个机制假设、一个替代解释和最小验证。",
-      "example": "写‘如果我打开电脑仍不知从哪开始，那么我先写任务标题并计时五分钟’。"
+      "example": "结束任务前写一句下一步和卡点，再切换；回来时直接从记录继续。"
     }
   },
   "news": [
     {
-      "id": "gdi-2026-09-08-0",
-      "title": "Only three tickets left for GDI’s Leaders’ Lunch on September 15th",
-      "date": "2026-09-07",
-      "summary": "Global Dating Insights has announced that just three tickets remain for its upcoming Leaders’ Lunch, with senior executives from across The post Only three tickets left for GDI’s Leaders’ Lunch on September 15th first appeared on Global Dating Insights . The p",
-      "url": "https://www.globaldatinginsights.com/featured/only-three-tickets-left-for-gdis-leaders-lunch-on-september-15th/"
+      "id": "gdi-2026-09-09-0",
+      "title": "Privacy Concerns Drive New Wave of Community-Focused Gay Dating Apps",
+      "date": "2026-09-08",
+      "summary": "Privacy concerns surrounding gay dating apps are helping drive interest in a new generation of smaller, community-focused platforms that are The post Privacy Concerns Drive New Wave of Community-Focused Gay Dating Apps first appeared on Global Dating Insights ",
+      "url": "https://www.globaldatinginsights.com/featured/privacy-concerns-drive-new-wave-of-community-focused-gay-dating-apps/"
     },
     {
-      "id": "gdi-2026-09-08-1",
-      "title": "Match Group Expands AI Matchmaking Tools Across Europe",
-      "date": "2026-09-07",
-      "summary": "Match Group is expanding its use of artificial intelligence across its European dating services, introducing matchmaking and safety features designed The post Match Group Expands AI Matchmaking Tools Across Europe first appeared on Global Dating Insights . The",
-      "url": "https://www.globaldatinginsights.com/featured/match-group-expands-ai-matchmaking-tools-across-europe/"
+      "id": "gdi-2026-09-09-1",
+      "title": "Ashley Madison Research Finds Women Reassessing Sexuality as They Age",
+      "date": "2026-09-08",
+      "summary": "Ashley Madison has published new research with YouGov examining how women’s attitudes toward sexuality and intimacy change later in life, The post Ashley Madison Research Finds Women Reassessing Sexuality as They Age first appeared on Global Dating Insights . ",
+      "url": "https://www.globaldatinginsights.com/news/ashley-madison-research-finds-women-reassessing-sexuality-as-they-age/"
     },
     {
-      "id": "gdi-2026-09-08-2",
-      "title": "EliteSingles Introduces $499 Monthly Membership Tier",
-      "date": "2026-09-07",
-      "summary": "EliteSingles has introduced a new membership tier priced at $499 for one month, targeting users willing to pay more for The post EliteSingles Introduces $499 Monthly Membership Tier first appeared on Global Dating Insights . The post EliteSingles Introduces $4",
-      "url": "https://www.globaldatinginsights.com/featured/elitesingles-introduces-499-monthly-membership-tier/"
+      "id": "gdi-2026-09-09-2",
+      "title": "LinkedIn Data Identifies Connection Barriers Between Gen Z Users",
+      "date": "2026-09-08",
+      "summary": "New research from LinkedIn suggests that Generation Z professionals can be reluctant to initiate connections, with concerns around authenticity, judgement The post LinkedIn Data Identifies Connection Barriers Between Gen Z Users first appeared on Global Dating",
+      "url": "https://www.globaldatinginsights.com/featured/linkedin-data-identifies-connection-barriers-between-gen-z-users/"
     }
   ]
 }
