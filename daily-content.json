@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-12",
-  "generatedAt": "2026-09-12T01:01:44.104609+00:00",
+  "date": "2026-09-13",
+  "generatedAt": "2026-09-13T00:49:12.566286+00:00",
   "courses": {
     "english": {
-      "id": "english-2026-09-12-3",
-      "title": "Everyday English｜求助电话",
-      "focus": "关注问题、请求和确认三步；录下复述，第二遍只修一个问题。",
+      "id": "english-2026-09-13-0",
+      "title": "Everyday English｜酒店入住",
+      "focus": "关注问题、请求和确认三步；圈出时间、地点与问题，再朗读两遍。",
       "paragraphs": [
-        "Today I need to handle a problem during my trip. I am near the north entrance of the station. I take a breath and explain the situation in one short sentence. I give the important details first, because the other person needs to know what happened before they can help me.",
-        "Then I make a clear and polite request: ‘Could you tell me what to do next?’ I listen for the key information, especially a time, place, price, or next action. If I miss a word, I ask the other person to say it again more slowly.",
+        "Today I need to handle a problem during my trip. The room does not match my reservation. I take a breath and explain the situation in one short sentence. I give the important details first, because the other person needs to know what happened before they can help me.",
+        "Then I make a clear and polite request: ‘Could you check the booking again?’ I listen for the key information, especially a time, place, price, or next action. If I miss a word, I ask the other person to say it again more slowly.",
         "Before I leave, I repeat the plan in my own words. This gives the other person a chance to correct me. I do not need perfect grammar: explain what happened, ask for what I need, and confirm what I will do next."
       ],
       "translations": [
-        "今天练习求助电话。我先用一句短句说清情况：I am near the north entrance of the station.",
-        "接着礼貌提出请求：Could you tell me what to do next?，重点听时间、地点、价格或下一步。",
+        "今天练习酒店入住。我先用一句短句说清情况：The room does not match my reservation.",
+        "接着礼貌提出请求：Could you check the booking again?，重点听时间、地点、价格或下一步。",
         "离开前用自己的话复述方案。解决问题不需要完美语法，按说明、请求、确认三步即可。"
       ],
       "words": [
         [
-          "location",
-          "求助电话",
-          "I am near the north entrance of the station."
+          "reservation",
+          "酒店入住",
+          "The room does not match my reservation."
         ],
         [
           "explain",
@@ -48,7 +48,7 @@
           "What should I do next?"
         ]
       ],
-      "remember": "说明问题—提出请求—复述确认。录下复述，第二遍只修一个问题。",
+      "remember": "说明问题—提出请求—复述确认。圈出时间、地点与问题，再朗读两遍。",
       "question": "没听清时最有效的做法是什么？",
       "options": [
         "假装听懂。",
@@ -57,16 +57,16 @@
       ],
       "correct": 1,
       "explanation": "请求放慢并复述能降低听力压力和误解风险。",
-      "apply": "用求助电话场景录一段30秒语音，包含问题、请求和确认。",
-      "example": "I am near the north entrance of the station. Could you tell me what to do next? Let me confirm what I should do next."
+      "apply": "用酒店入住场景录一段30秒语音，包含问题、请求和确认。",
+      "example": "The room does not match my reservation. Could you check the booking again? Let me confirm what I should do next."
     },
     "economics": {
-      "id": "economics-2026-09-12-3",
-      "title": "激励相容｜奖励为何会带偏行为",
-      "focus": "关注机制、替代解释和下一步。第4轮练习。",
+      "id": "economics-2026-09-13-0",
+      "title": "供需错配｜好房间为何遇不到付费用户",
+      "focus": "关注机制、替代解释和下一步。第1轮练习。",
       "paragraphs": [
-        "今天的核心是：规则应让个人最优行为接近平台目标。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
-        "具体例子：若只奖励开房时长，主播可能挂机；把有效互动、健康留存和投诉率一起纳入更接近目标。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
+        "今天的核心是：供给存在不等于匹配有效。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
+        "具体例子：把高质量房间按用户付费意愿、兴趣和在线时段分层，观察匹配后的进房与付费，而不是只看总曝光。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
         "应用时问三个问题：如果这个解释成立，什么会先变化？还有什么原因会造成同样现象？最小验证动作是什么？这个顺序能把模糊感受变成可检查的判断，并帮助你说明结论的边界。"
       ],
       "remember": "合上内容后复述：现象—机制—替代解释—验证动作。",
@@ -79,15 +79,15 @@
       "correct": 2,
       "explanation": "能连接现象、机制和证据，概念才会帮助决策。",
       "apply": "选一个今天的真实现象，写一个机制假设、一个替代解释和最小验证。",
-      "example": "若只奖励开房时长，主播可能挂机；把有效互动、健康留存和投诉率一起纳入更接近目标。"
+      "example": "把高质量房间按用户付费意愿、兴趣和在线时段分层，观察匹配后的进房与付费，而不是只看总曝光。"
     },
     "psychology": {
-      "id": "psychology-2026-09-12-3",
-      "title": "证据检查｜把事实和预测分开",
-      "focus": "关注机制、替代解释和下一步。第4轮练习。",
+      "id": "psychology-2026-09-13-0",
+      "title": "认知解离｜把想法看成一句话",
+      "focus": "关注机制、替代解释和下一步。第1轮练习。",
       "paragraphs": [
-        "今天的核心是：焦虑预测需要和可观察证据分列。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
-        "具体例子：写支持证据、反对证据和未知信息，最后选择一个能增加信息的小动作。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
+        "今天的核心是：想法是心理事件，不自动等于事实。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
+        "具体例子：把‘我一定做不好’改写成‘我注意到自己正在想：我一定做不好’，再选择一个五分钟动作。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
         "应用时问三个问题：如果这个解释成立，什么会先变化？还有什么原因会造成同样现象？最小验证动作是什么？这个顺序能把模糊感受变成可检查的判断，并帮助你说明结论的边界。"
       ],
       "remember": "合上内容后复述：现象—机制—替代解释—验证动作。",
@@ -100,26 +100,26 @@
       "correct": 2,
       "explanation": "能连接现象、机制和证据，概念才会帮助决策。",
       "apply": "选一个今天的真实现象，写一个机制假设、一个替代解释和最小验证。",
-      "example": "写支持证据、反对证据和未知信息，最后选择一个能增加信息的小动作。"
+      "example": "把‘我一定做不好’改写成‘我注意到自己正在想：我一定做不好’，再选择一个五分钟动作。"
     }
   },
   "news": [
     {
-      "id": "gdi-2026-09-12-0",
+      "id": "gdi-2026-09-13-0",
       "title": "Only one ticket left for GDI’s Leaders’ Lunch on September 15th",
       "date": "2026-09-11",
       "summary": "Global Dating Insights has announced that just one ticket remains for its upcoming Leaders’ Lunch, with senior executives from across The post Only one ticket left for GDI’s Leaders’ Lunch on September 15th first appeared on Global Dating Insights . The post O",
       "url": "https://www.globaldatinginsights.com/featured/only-one-ticket-left-for-gdis-leaders-lunch-on-september-15th/"
     },
     {
-      "id": "gdi-2026-09-12-1",
+      "id": "gdi-2026-09-13-1",
       "title": "Dating Startup MeetMeetNow Builds Immediate In-Person Dates",
       "date": "2026-09-11",
       "summary": "MeetMeetNow is taking a different approach to app-based dating by removing one of the most common stages of online matchmaking: The post Dating Startup MeetMeetNow Builds Immediate In-Person Dates first appeared on Global Dating Insights . The post Dating Star",
       "url": "https://www.globaldatinginsights.com/featured/dating-startup-meetmeetnow-builds-immediate-in-person-dates/"
     },
     {
-      "id": "gdi-2026-09-12-2",
+      "id": "gdi-2026-09-13-2",
       "title": "Grindr Agrees to £26m Settlement Over Alleged Sharing of User Data",
       "date": "2026-09-11",
       "summary": "Grindr has agreed to pay £26 million to settle a UK lawsuit over allegations that the LGBTQ+ dating app shared The post Grindr Agrees to £26m Settlement Over Alleged Sharing of User Data first appeared on Global Dating Insights . The post Grindr Agrees to £26m",
