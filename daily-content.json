@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-14",
-  "generatedAt": "2026-09-14T00:55:51.045462+00:00",
+  "date": "2026-09-15",
+  "generatedAt": "2026-09-15T01:21:18.498956+00:00",
   "courses": {
     "english": {
-      "id": "english-2026-09-14-0",
-      "title": "Everyday English｜餐厅点餐",
+      "id": "english-2026-09-15-0",
+      "title": "Everyday English｜火车延误",
       "focus": "关注问题、请求和确认三步；圈出时间、地点与问题，再朗读两遍。",
       "paragraphs": [
-        "Today I need to handle a problem during my trip. I am allergic to peanuts. I take a breath and explain the situation in one short sentence. I give the important details first, because the other person needs to know what happened before they can help me.",
-        "Then I make a clear and polite request: ‘Does this dish contain any nuts?’ I listen for the key information, especially a time, place, price, or next action. If I miss a word, I ask the other person to say it again more slowly.",
+        "Today I need to handle a problem during my trip. My train has been delayed. I take a breath and explain the situation in one short sentence. I give the important details first, because the other person needs to know what happened before they can help me.",
+        "Then I make a clear and polite request: ‘What is the fastest alternative route?’ I listen for the key information, especially a time, place, price, or next action. If I miss a word, I ask the other person to say it again more slowly.",
         "Before I leave, I repeat the plan in my own words. This gives the other person a chance to correct me. I do not need perfect grammar: explain what happened, ask for what I need, and confirm what I will do next."
       ],
       "translations": [
-        "今天练习餐厅点餐。我先用一句短句说清情况：I am allergic to peanuts.",
-        "接着礼貌提出请求：Does this dish contain any nuts?，重点听时间、地点、价格或下一步。",
+        "今天练习火车延误。我先用一句短句说清情况：My train has been delayed.",
+        "接着礼貌提出请求：What is the fastest alternative route?，重点听时间、地点、价格或下一步。",
         "离开前用自己的话复述方案。解决问题不需要完美语法，按说明、请求、确认三步即可。"
       ],
       "words": [
         [
-          "allergy",
-          "餐厅点餐",
-          "I am allergic to peanuts."
+          "delay",
+          "火车延误",
+          "My train has been delayed."
         ],
         [
           "explain",
@@ -57,16 +57,16 @@
       ],
       "correct": 1,
       "explanation": "请求放慢并复述能降低听力压力和误解风险。",
-      "apply": "用餐厅点餐场景录一段30秒语音，包含问题、请求和确认。",
-      "example": "I am allergic to peanuts. Does this dish contain any nuts? Let me confirm what I should do next."
+      "apply": "用火车延误场景录一段30秒语音，包含问题、请求和确认。",
+      "example": "My train has been delayed. What is the fastest alternative route? Let me confirm what I should do next."
     },
     "economics": {
-      "id": "economics-2026-09-14-0",
-      "title": "边际收益｜多给一次曝光值不值",
+      "id": "economics-2026-09-15-0",
+      "title": "价格分层｜同一服务为何有不同套餐",
       "focus": "关注机制、替代解释和下一步。第1轮练习。",
       "paragraphs": [
-        "今天的核心是：比较再增加一单位资源带来的新增结果。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
-        "具体例子：按曝光档位看新增停留和新增付费；若后续曝光只搬运原有用户，边际收益会快速下降。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
+        "今天的核心是：按需求差异设计版本能提高匹配效率。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
+        "具体例子：会员可按权益组合分层，但要保证规则透明，并观察套餐是否扩大付费而非只迁移老用户。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
         "应用时问三个问题：如果这个解释成立，什么会先变化？还有什么原因会造成同样现象？最小验证动作是什么？这个顺序能把模糊感受变成可检查的判断，并帮助你说明结论的边界。"
       ],
       "remember": "合上内容后复述：现象—机制—替代解释—验证动作。",
@@ -79,15 +79,15 @@
       "correct": 2,
       "explanation": "能连接现象、机制和证据，概念才会帮助决策。",
       "apply": "选一个今天的真实现象，写一个机制假设、一个替代解释和最小验证。",
-      "example": "按曝光档位看新增停留和新增付费；若后续曝光只搬运原有用户，边际收益会快速下降。"
+      "example": "会员可按权益组合分层，但要保证规则透明，并观察套餐是否扩大付费而非只迁移老用户。"
     },
     "psychology": {
-      "id": "psychology-2026-09-14-0",
-      "title": "可控圈｜把注意力放回下一步",
+      "id": "psychology-2026-09-15-0",
+      "title": "情绪标记｜准确命名会降低混乱",
       "focus": "关注机制、替代解释和下一步。第1轮练习。",
       "paragraphs": [
-        "今天的核心是：区分可控制、可影响和暂时不可控。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
-        "具体例子：列出三栏，只从可控制栏选一件十分钟内能开始的事。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
+        "今天的核心是：具体区分担心、失望、疲惫和羞耻。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
+        "具体例子：写‘我现在更接近___，强度是10分中的___’，再判断需要信息、休息还是行动。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
         "应用时问三个问题：如果这个解释成立，什么会先变化？还有什么原因会造成同样现象？最小验证动作是什么？这个顺序能把模糊感受变成可检查的判断，并帮助你说明结论的边界。"
       ],
       "remember": "合上内容后复述：现象—机制—替代解释—验证动作。",
@@ -100,30 +100,30 @@
       "correct": 2,
       "explanation": "能连接现象、机制和证据，概念才会帮助决策。",
       "apply": "选一个今天的真实现象，写一个机制假设、一个替代解释和最小验证。",
-      "example": "列出三栏，只从可控制栏选一件十分钟内能开始的事。"
+      "example": "写‘我现在更接近___，强度是10分中的___’，再判断需要信息、休息还是行动。"
     }
   },
   "news": [
     {
-      "id": "gdi-2026-09-14-0",
-      "title": "Only one ticket left for GDI’s Leaders’ Lunch on September 15th",
-      "date": "2026-09-11",
-      "summary": "Global Dating Insights has announced that just one ticket remains for its upcoming Leaders’ Lunch, with senior executives from across The post Only one ticket left for GDI’s Leaders’ Lunch on September 15th first appeared on Global Dating Insights . The post O",
-      "url": "https://www.globaldatinginsights.com/featured/only-one-ticket-left-for-gdis-leaders-lunch-on-september-15th/"
+      "id": "gdi-2026-09-15-0",
+      "title": "Match Study Finds U.S. Singles Prioritising Stability and Compatibility",
+      "date": "2026-09-14",
+      "summary": "U.S. singles remain optimistic about finding lasting relationships, but Match’s latest Singles in America study suggests many are becoming more The post Match Study Finds U.S. Singles Prioritising Stability and Compatibility first appeared on Global Dating Ins",
+      "url": "https://www.globaldatinginsights.com/featured/match-study-finds-u-s-singles-prioritising-stability-and-compatibility/"
     },
     {
-      "id": "gdi-2026-09-14-1",
-      "title": "Dating Startup MeetMeetNow Builds Immediate In-Person Dates",
-      "date": "2026-09-11",
-      "summary": "MeetMeetNow is taking a different approach to app-based dating by removing one of the most common stages of online matchmaking: The post Dating Startup MeetMeetNow Builds Immediate In-Person Dates first appeared on Global Dating Insights . The post Dating Star",
-      "url": "https://www.globaldatinginsights.com/featured/dating-startup-meetmeetnow-builds-immediate-in-person-dates/"
+      "id": "gdi-2026-09-15-1",
+      "title": "Blackstone Moves to Exit Bumble As An Investor",
+      "date": "2026-09-14",
+      "summary": "Private-equity firm Blackstone is moving towards a full exit from Bumble after almost seven years as an investor. Blackstone first The post Blackstone Moves to Exit Bumble As An Investor first appeared on Global Dating Insights . The post Blackstone Moves to E",
+      "url": "https://www.globaldatinginsights.com/featured/blackstone-moves-to-exit-bumble-as-an-investor/"
     },
     {
-      "id": "gdi-2026-09-14-2",
-      "title": "Grindr Agrees to £26m Settlement Over Alleged Sharing of User Data",
-      "date": "2026-09-11",
-      "summary": "Grindr has agreed to pay £26 million to settle a UK lawsuit over allegations that the LGBTQ+ dating app shared The post Grindr Agrees to £26m Settlement Over Alleged Sharing of User Data first appeared on Global Dating Insights . The post Grindr Agrees to £26m",
-      "url": "https://www.globaldatinginsights.com/featured/grindr-agrees-to-26m-settlement-over-alleged-sharing-of-user-data/"
+      "id": "gdi-2026-09-15-2",
+      "title": "X Adds Number Codes for Private Access to Direct Messages",
+      "date": "2026-09-14",
+      "summary": "X may be rolling out a new number-code feature that gives users another way to control who can contact them The post X Adds Number Codes for Private Access to Direct Messages first appeared on Global Dating Insights . The post X Adds Number Codes for Private A",
+      "url": "https://www.globaldatinginsights.com/featured/x-adds-number-codes-for-private-access-to-direct-messages/"
     }
   ]
 }
