@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-15",
-  "generatedAt": "2026-09-15T01:21:18.498956+00:00",
+  "date": "2026-09-16",
+  "generatedAt": "2026-09-16T01:18:25.785172+00:00",
   "courses": {
     "english": {
-      "id": "english-2026-09-15-0",
-      "title": "Everyday English｜火车延误",
+      "id": "english-2026-09-16-0",
+      "title": "Everyday English｜药房沟通",
       "focus": "关注问题、请求和确认三步；圈出时间、地点与问题，再朗读两遍。",
       "paragraphs": [
-        "Today I need to handle a problem during my trip. My train has been delayed. I take a breath and explain the situation in one short sentence. I give the important details first, because the other person needs to know what happened before they can help me.",
-        "Then I make a clear and polite request: ‘What is the fastest alternative route?’ I listen for the key information, especially a time, place, price, or next action. If I miss a word, I ask the other person to say it again more slowly.",
+        "Today I need to handle a problem during my trip. I have had a sore throat since yesterday. I take a breath and explain the situation in one short sentence. I give the important details first, because the other person needs to know what happened before they can help me.",
+        "Then I make a clear and polite request: ‘Is there anything suitable for this?’ I listen for the key information, especially a time, place, price, or next action. If I miss a word, I ask the other person to say it again more slowly.",
         "Before I leave, I repeat the plan in my own words. This gives the other person a chance to correct me. I do not need perfect grammar: explain what happened, ask for what I need, and confirm what I will do next."
       ],
       "translations": [
-        "今天练习火车延误。我先用一句短句说清情况：My train has been delayed.",
-        "接着礼貌提出请求：What is the fastest alternative route?，重点听时间、地点、价格或下一步。",
+        "今天练习药房沟通。我先用一句短句说清情况：I have had a sore throat since yesterday.",
+        "接着礼貌提出请求：Is there anything suitable for this?，重点听时间、地点、价格或下一步。",
         "离开前用自己的话复述方案。解决问题不需要完美语法，按说明、请求、确认三步即可。"
       ],
       "words": [
         [
-          "delay",
-          "火车延误",
-          "My train has been delayed."
+          "symptom",
+          "药房沟通",
+          "I have had a sore throat since yesterday."
         ],
         [
           "explain",
@@ -57,16 +57,16 @@
       ],
       "correct": 1,
       "explanation": "请求放慢并复述能降低听力压力和误解风险。",
-      "apply": "用火车延误场景录一段30秒语音，包含问题、请求和确认。",
-      "example": "My train has been delayed. What is the fastest alternative route? Let me confirm what I should do next."
+      "apply": "用药房沟通场景录一段30秒语音，包含问题、请求和确认。",
+      "example": "I have had a sore throat since yesterday. Is there anything suitable for this? Let me confirm what I should do next."
     },
     "economics": {
-      "id": "economics-2026-09-15-0",
-      "title": "价格分层｜同一服务为何有不同套餐",
+      "id": "economics-2026-09-16-0",
+      "title": "网络效应｜人越多产品一定越好吗",
       "focus": "关注机制、替代解释和下一步。第1轮练习。",
       "paragraphs": [
-        "今天的核心是：按需求差异设计版本能提高匹配效率。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
-        "具体例子：会员可按权益组合分层，但要保证规则透明，并观察套餐是否扩大付费而非只迁移老用户。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
+        "今天的核心是：用户增加只有在提高他人价值时才形成网络效应。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
+        "具体例子：人数增加可能提升热闹感，也可能降低发言机会；应分别看听众留存和上麦成功率。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
         "应用时问三个问题：如果这个解释成立，什么会先变化？还有什么原因会造成同样现象？最小验证动作是什么？这个顺序能把模糊感受变成可检查的判断，并帮助你说明结论的边界。"
       ],
       "remember": "合上内容后复述：现象—机制—替代解释—验证动作。",
@@ -79,15 +79,15 @@
       "correct": 2,
       "explanation": "能连接现象、机制和证据，概念才会帮助决策。",
       "apply": "选一个今天的真实现象，写一个机制假设、一个替代解释和最小验证。",
-      "example": "会员可按权益组合分层，但要保证规则透明，并观察套餐是否扩大付费而非只迁移老用户。"
+      "example": "人数增加可能提升热闹感，也可能降低发言机会；应分别看听众留存和上麦成功率。"
     },
     "psychology": {
-      "id": "psychology-2026-09-15-0",
-      "title": "情绪标记｜准确命名会降低混乱",
+      "id": "psychology-2026-09-16-0",
+      "title": "实施意图｜用如果那么降低启动成本",
       "focus": "关注机制、替代解释和下一步。第1轮练习。",
       "paragraphs": [
-        "今天的核心是：具体区分担心、失望、疲惫和羞耻。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
-        "具体例子：写‘我现在更接近___，强度是10分中的___’，再判断需要信息、休息还是行动。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
+        "今天的核心是：提前把触发场景与小动作绑定。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
+        "具体例子：写‘如果我打开电脑仍不知从哪开始，那么我先写任务标题并计时五分钟’。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
         "应用时问三个问题：如果这个解释成立，什么会先变化？还有什么原因会造成同样现象？最小验证动作是什么？这个顺序能把模糊感受变成可检查的判断，并帮助你说明结论的边界。"
       ],
       "remember": "合上内容后复述：现象—机制—替代解释—验证动作。",
@@ -100,30 +100,30 @@
       "correct": 2,
       "explanation": "能连接现象、机制和证据，概念才会帮助决策。",
       "apply": "选一个今天的真实现象，写一个机制假设、一个替代解释和最小验证。",
-      "example": "写‘我现在更接近___，强度是10分中的___’，再判断需要信息、休息还是行动。"
+      "example": "写‘如果我打开电脑仍不知从哪开始，那么我先写任务标题并计时五分钟’。"
     }
   },
   "news": [
     {
-      "id": "gdi-2026-09-15-0",
-      "title": "Match Study Finds U.S. Singles Prioritising Stability and Compatibility",
-      "date": "2026-09-14",
-      "summary": "U.S. singles remain optimistic about finding lasting relationships, but Match’s latest Singles in America study suggests many are becoming more The post Match Study Finds U.S. Singles Prioritising Stability and Compatibility first appeared on Global Dating Ins",
-      "url": "https://www.globaldatinginsights.com/featured/match-study-finds-u-s-singles-prioritising-stability-and-compatibility/"
+      "id": "gdi-2026-09-16-0",
+      "title": "Grindr Reports Higher Revenue per Employee Than Big Tech",
+      "date": "2026-09-15",
+      "summary": "Grindr is generating more revenue per employee than most of the major US technology companies, according to data highlighted in The post Grindr Reports Higher Revenue per Employee Than Big Tech first appeared on Global Dating Insights . The post Grindr Reports",
+      "url": "https://www.globaldatinginsights.com/featured/grindr-reports-higher-revenue-per-employee-than-big-tech/"
     },
     {
-      "id": "gdi-2026-09-15-1",
-      "title": "Blackstone Moves to Exit Bumble As An Investor",
-      "date": "2026-09-14",
-      "summary": "Private-equity firm Blackstone is moving towards a full exit from Bumble after almost seven years as an investor. Blackstone first The post Blackstone Moves to Exit Bumble As An Investor first appeared on Global Dating Insights . The post Blackstone Moves to E",
-      "url": "https://www.globaldatinginsights.com/featured/blackstone-moves-to-exit-bumble-as-an-investor/"
+      "id": "gdi-2026-09-16-1",
+      "title": "Chinese Dating App Liangpei Launches With Three-Year Guarantee",
+      "date": "2026-09-15",
+      "summary": "A new Chinese dating app is using artificial intelligence to match users while making an unusual promise: if members do The post Chinese Dating App Liangpei Launches With Three-Year Guarantee first appeared on Global Dating Insights . The post Chinese Dating A",
+      "url": "https://www.globaldatinginsights.com/featured/chinese-dating-app-liangpei-launches-with-three-year-guarantee/"
     },
     {
-      "id": "gdi-2026-09-15-2",
-      "title": "X Adds Number Codes for Private Access to Direct Messages",
-      "date": "2026-09-14",
-      "summary": "X may be rolling out a new number-code feature that gives users another way to control who can contact them The post X Adds Number Codes for Private Access to Direct Messages first appeared on Global Dating Insights . The post X Adds Number Codes for Private A",
-      "url": "https://www.globaldatinginsights.com/featured/x-adds-number-codes-for-private-access-to-direct-messages/"
+      "id": "gdi-2026-09-16-2",
+      "title": "Anthropic Identifies Massive Human-Led AI Dating Scam Network",
+      "date": "2026-09-15",
+      "summary": "Anthropic has uncovered a large-scale dating app operation in which artificial intelligence was used to create and operate thousands of The post Anthropic Identifies Massive Human-Led AI Dating Scam Network first appeared on Global Dating Insights . The post A",
+      "url": "https://www.globaldatinginsights.com/featured/anthropic-identifies-massive-human-led-ai-dating-scam-network/"
     }
   ]
 }
