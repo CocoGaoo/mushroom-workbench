@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-19",
-  "generatedAt": "2026-09-19T01:06:53.016158+00:00",
+  "date": "2026-09-20",
+  "generatedAt": "2026-09-20T00:57:53.383380+00:00",
   "courses": {
     "english": {
-      "id": "english-2026-09-19-0",
-      "title": "Everyday English｜工作社交",
+      "id": "english-2026-09-20-0",
+      "title": "Everyday English｜求助电话",
       "focus": "关注问题、请求和确认三步；圈出时间、地点与问题，再朗读两遍。",
       "paragraphs": [
-        "Today I need to handle a problem during my trip. It is my first time in London. I take a breath and explain the situation in one short sentence. I give the important details first, because the other person needs to know what happened before they can help me.",
-        "Then I make a clear and polite request: ‘What would you recommend nearby?’ I listen for the key information, especially a time, place, price, or next action. If I miss a word, I ask the other person to say it again more slowly.",
+        "Today I need to handle a problem during my trip. I am near the north entrance of the station. I take a breath and explain the situation in one short sentence. I give the important details first, because the other person needs to know what happened before they can help me.",
+        "Then I make a clear and polite request: ‘Could you tell me what to do next?’ I listen for the key information, especially a time, place, price, or next action. If I miss a word, I ask the other person to say it again more slowly.",
         "Before I leave, I repeat the plan in my own words. This gives the other person a chance to correct me. I do not need perfect grammar: explain what happened, ask for what I need, and confirm what I will do next."
       ],
       "translations": [
-        "今天练习工作社交。我先用一句短句说清情况：It is my first time in London.",
-        "接着礼貌提出请求：What would you recommend nearby?，重点听时间、地点、价格或下一步。",
+        "今天练习求助电话。我先用一句短句说清情况：I am near the north entrance of the station.",
+        "接着礼貌提出请求：Could you tell me what to do next?，重点听时间、地点、价格或下一步。",
         "离开前用自己的话复述方案。解决问题不需要完美语法，按说明、请求、确认三步即可。"
       ],
       "words": [
         [
-          "recommend",
-          "工作社交",
-          "It is my first time in London."
+          "location",
+          "求助电话",
+          "I am near the north entrance of the station."
         ],
         [
           "explain",
@@ -57,16 +57,16 @@
       ],
       "correct": 1,
       "explanation": "请求放慢并复述能降低听力压力和误解风险。",
-      "apply": "用工作社交场景录一段30秒语音，包含问题、请求和确认。",
-      "example": "It is my first time in London. What would you recommend nearby? Let me confirm what I should do next."
+      "apply": "用求助电话场景录一段30秒语音，包含问题、请求和确认。",
+      "example": "I am near the north entrance of the station. Could you tell me what to do next? Let me confirm what I should do next."
     },
     "economics": {
-      "id": "economics-2026-09-19-0",
-      "title": "替代效应｜推荐增长可能只是搬家",
+      "id": "economics-2026-09-20-0",
+      "title": "激励相容｜奖励为何会带偏行为",
       "focus": "关注机制、替代解释和下一步。第1轮练习。",
       "paragraphs": [
-        "今天的核心是：一个入口增长可能来自另一个入口下降。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
-        "具体例子：观察推荐房新增时，同时检查关注页和搜索页是否下降，并用全站有效互动判断净增长。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
+        "今天的核心是：规则应让个人最优行为接近平台目标。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
+        "具体例子：若只奖励开房时长，主播可能挂机；把有效互动、健康留存和投诉率一起纳入更接近目标。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
         "应用时问三个问题：如果这个解释成立，什么会先变化？还有什么原因会造成同样现象？最小验证动作是什么？这个顺序能把模糊感受变成可检查的判断，并帮助你说明结论的边界。"
       ],
       "remember": "合上内容后复述：现象—机制—替代解释—验证动作。",
@@ -79,15 +79,15 @@
       "correct": 2,
       "explanation": "能连接现象、机制和证据，概念才会帮助决策。",
       "apply": "选一个今天的真实现象，写一个机制假设、一个替代解释和最小验证。",
-      "example": "观察推荐房新增时，同时检查关注页和搜索页是否下降，并用全站有效互动判断净增长。"
+      "example": "若只奖励开房时长，主播可能挂机；把有效互动、健康留存和投诉率一起纳入更接近目标。"
     },
     "psychology": {
-      "id": "psychology-2026-09-19-0",
-      "title": "行为激活｜先用小行动改变环境",
+      "id": "psychology-2026-09-20-0",
+      "title": "证据检查｜把事实和预测分开",
       "focus": "关注机制、替代解释和下一步。第1轮练习。",
       "paragraphs": [
-        "今天的核心是：动力有时出现在行动之后。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
-        "具体例子：先做两分钟可见动作：打开文档、换衣服或走到门口，然后再决定是否继续。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
+        "今天的核心是：焦虑预测需要和可观察证据分列。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
+        "具体例子：写支持证据、反对证据和未知信息，最后选择一个能增加信息的小动作。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
         "应用时问三个问题：如果这个解释成立，什么会先变化？还有什么原因会造成同样现象？最小验证动作是什么？这个顺序能把模糊感受变成可检查的判断，并帮助你说明结论的边界。"
       ],
       "remember": "合上内容后复述：现象—机制—替代解释—验证动作。",
@@ -100,26 +100,26 @@
       "correct": 2,
       "explanation": "能连接现象、机制和证据，概念才会帮助决策。",
       "apply": "选一个今天的真实现象，写一个机制假设、一个替代解释和最小验证。",
-      "example": "先做两分钟可见动作：打开文档、换衣服或走到门口，然后再决定是否继续。"
+      "example": "写支持证据、反对证据和未知信息，最后选择一个能增加信息的小动作。"
     }
   },
   "news": [
     {
-      "id": "gdi-2026-09-19-0",
+      "id": "gdi-2026-09-20-0",
       "title": "Getting the Deal Done: Inside Dating M&A",
       "date": "2026-09-18",
       "summary": "Max Schapiro of Wolfson Partners joined the GDI Conference virtually to talk about getting dating deals done. Wolfson Partners has The post Getting the Deal Done: Inside Dating M&A first appeared on Global Dating Insights . The post Getting the Deal Done: Insi",
       "url": "https://www.globaldatinginsights.com/uncategorised/getting-the-deal-done-inside-dating-ma/"
     },
     {
-      "id": "gdi-2026-09-19-1",
+      "id": "gdi-2026-09-20-1",
       "title": "Dating App Users Draw a Line on AI",
       "date": "2026-09-18",
       "summary": "AI was a major topic at the GDI Conference in London. Speakers discussed where the technology can improve online dating The post Dating App Users Draw a Line on AI first appeared on Global Dating Insights . The post Dating App Users Draw a Line on AI appeared ",
       "url": "https://www.globaldatinginsights.com/featured/dating-app-users-draw-a-line-on-ai/"
     },
     {
-      "id": "gdi-2026-09-19-2",
+      "id": "gdi-2026-09-20-2",
       "title": "Tantan Joins the Move Towards IRL Dating Events",
       "date": "2026-09-18",
       "summary": "Tantan, one of Asia-Pacific’s largest dating apps, is expanding its fitness and social events across the region. The company has The post Tantan Joins the Move Towards IRL Dating Events first appeared on Global Dating Insights . The post Tantan Joins the Move ",
