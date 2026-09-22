@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-21",
-  "generatedAt": "2026-09-21T00:59:49.205137+00:00",
+  "date": "2026-09-22",
+  "generatedAt": "2026-09-22T01:33:37.023355+00:00",
   "courses": {
     "english": {
-      "id": "english-2026-09-21-1",
-      "title": "Everyday English｜酒店入住",
+      "id": "english-2026-09-22-1",
+      "title": "Everyday English｜餐厅点餐",
       "focus": "关注问题、请求和确认三步；遮住中文复述情节，再核对遗漏。",
       "paragraphs": [
-        "Today I need to handle a problem during my trip. The room does not match my reservation. I take a breath and explain the situation in one short sentence. I give the important details first, because the other person needs to know what happened before they can help me.",
-        "Then I make a clear and polite request: ‘Could you check the booking again?’ I listen for the key information, especially a time, place, price, or next action. If I miss a word, I ask the other person to say it again more slowly.",
+        "Today I need to handle a problem during my trip. I am allergic to peanuts. I take a breath and explain the situation in one short sentence. I give the important details first, because the other person needs to know what happened before they can help me.",
+        "Then I make a clear and polite request: ‘Does this dish contain any nuts?’ I listen for the key information, especially a time, place, price, or next action. If I miss a word, I ask the other person to say it again more slowly.",
         "Before I leave, I repeat the plan in my own words. This gives the other person a chance to correct me. I do not need perfect grammar: explain what happened, ask for what I need, and confirm what I will do next."
       ],
       "translations": [
-        "今天练习酒店入住。我先用一句短句说清情况：The room does not match my reservation.",
-        "接着礼貌提出请求：Could you check the booking again?，重点听时间、地点、价格或下一步。",
+        "今天练习餐厅点餐。我先用一句短句说清情况：I am allergic to peanuts.",
+        "接着礼貌提出请求：Does this dish contain any nuts?，重点听时间、地点、价格或下一步。",
         "离开前用自己的话复述方案。解决问题不需要完美语法，按说明、请求、确认三步即可。"
       ],
       "words": [
         [
-          "reservation",
-          "酒店入住",
-          "The room does not match my reservation."
+          "allergy",
+          "餐厅点餐",
+          "I am allergic to peanuts."
         ],
         [
           "explain",
@@ -57,16 +57,16 @@
       ],
       "correct": 1,
       "explanation": "请求放慢并复述能降低听力压力和误解风险。",
-      "apply": "用酒店入住场景录一段30秒语音，包含问题、请求和确认。",
-      "example": "The room does not match my reservation. Could you check the booking again? Let me confirm what I should do next."
+      "apply": "用餐厅点餐场景录一段30秒语音，包含问题、请求和确认。",
+      "example": "I am allergic to peanuts. Does this dish contain any nuts? Let me confirm what I should do next."
     },
     "economics": {
-      "id": "economics-2026-09-21-1",
-      "title": "供需错配｜好房间为何遇不到付费用户",
+      "id": "economics-2026-09-22-1",
+      "title": "边际收益｜多给一次曝光值不值",
       "focus": "关注机制、替代解释和下一步。第2轮练习。",
       "paragraphs": [
-        "今天的核心是：供给存在不等于匹配有效。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
-        "具体例子：把高质量房间按用户付费意愿、兴趣和在线时段分层，观察匹配后的进房与付费，而不是只看总曝光。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
+        "今天的核心是：比较再增加一单位资源带来的新增结果。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
+        "具体例子：按曝光档位看新增停留和新增付费；若后续曝光只搬运原有用户，边际收益会快速下降。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
         "应用时问三个问题：如果这个解释成立，什么会先变化？还有什么原因会造成同样现象？最小验证动作是什么？这个顺序能把模糊感受变成可检查的判断，并帮助你说明结论的边界。"
       ],
       "remember": "合上内容后复述：现象—机制—替代解释—验证动作。",
@@ -79,15 +79,15 @@
       "correct": 2,
       "explanation": "能连接现象、机制和证据，概念才会帮助决策。",
       "apply": "选一个今天的真实现象，写一个机制假设、一个替代解释和最小验证。",
-      "example": "把高质量房间按用户付费意愿、兴趣和在线时段分层，观察匹配后的进房与付费，而不是只看总曝光。"
+      "example": "按曝光档位看新增停留和新增付费；若后续曝光只搬运原有用户，边际收益会快速下降。"
     },
     "psychology": {
-      "id": "psychology-2026-09-21-1",
-      "title": "认知解离｜把想法看成一句话",
+      "id": "psychology-2026-09-22-1",
+      "title": "可控圈｜把注意力放回下一步",
       "focus": "关注机制、替代解释和下一步。第2轮练习。",
       "paragraphs": [
-        "今天的核心是：想法是心理事件，不自动等于事实。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
-        "具体例子：把‘我一定做不好’改写成‘我注意到自己正在想：我一定做不好’，再选择一个五分钟动作。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
+        "今天的核心是：区分可控制、可影响和暂时不可控。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
+        "具体例子：列出三栏，只从可控制栏选一件十分钟内能开始的事。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
         "应用时问三个问题：如果这个解释成立，什么会先变化？还有什么原因会造成同样现象？最小验证动作是什么？这个顺序能把模糊感受变成可检查的判断，并帮助你说明结论的边界。"
       ],
       "remember": "合上内容后复述：现象—机制—替代解释—验证动作。",
@@ -100,30 +100,30 @@
       "correct": 2,
       "explanation": "能连接现象、机制和证据，概念才会帮助决策。",
       "apply": "选一个今天的真实现象，写一个机制假设、一个替代解释和最小验证。",
-      "example": "把‘我一定做不好’改写成‘我注意到自己正在想：我一定做不好’，再选择一个五分钟动作。"
+      "example": "列出三栏，只从可控制栏选一件十分钟内能开始的事。"
     }
   },
   "news": [
     {
-      "id": "gdi-2026-09-21-0",
+      "id": "gdi-2026-09-22-0",
+      "title": "Woman Who Found Love at Lisdoonvarna Matchmaking Festival Returns With Other Singles",
+      "date": "2026-09-21",
+      "summary": "Mary Timby is a 39-year-old communications consultant from Colorado. She travelled to Ireland in September 2025 after becoming tired of The post Woman Who Found Love at Lisdoonvarna Matchmaking Festival Returns With Other Singles first appeared on Global Datin",
+      "url": "https://www.globaldatinginsights.com/from-the-web/lisdoonvarna-matchmaking-festival-love-story/"
+    },
+    {
+      "id": "gdi-2026-09-22-1",
+      "title": "Dating Apps Keep Chasing Gen Z. What About 40+?",
+      "date": "2026-09-21",
+      "summary": "The dating industry has spent years trying to crack Gen Z. Maybe it has been looking in the wrong direction…. The post Dating Apps Keep Chasing Gen Z. What About 40+? first appeared on Global Dating Insights . The post Dating Apps Keep Chasing Gen Z. What Abou",
+      "url": "https://www.globaldatinginsights.com/featured/dating-apps-chasing-wrong-generation/"
+    },
+    {
+      "id": "gdi-2026-09-22-2",
       "title": "Getting the Deal Done: Inside Dating M&A",
       "date": "2026-09-18",
       "summary": "Max Schapiro of Wolfson Partners joined the GDI Conference virtually to talk about getting dating deals done. Wolfson Partners has The post Getting the Deal Done: Inside Dating M&A first appeared on Global Dating Insights . The post Getting the Deal Done: Insi",
       "url": "https://www.globaldatinginsights.com/uncategorised/getting-the-deal-done-inside-dating-ma/"
-    },
-    {
-      "id": "gdi-2026-09-21-1",
-      "title": "Dating App Users Draw a Line on AI",
-      "date": "2026-09-18",
-      "summary": "AI was a major topic at the GDI Conference in London. Speakers discussed where the technology can improve online dating The post Dating App Users Draw a Line on AI first appeared on Global Dating Insights . The post Dating App Users Draw a Line on AI appeared ",
-      "url": "https://www.globaldatinginsights.com/featured/dating-app-users-draw-a-line-on-ai/"
-    },
-    {
-      "id": "gdi-2026-09-21-2",
-      "title": "Tantan Joins the Move Towards IRL Dating Events",
-      "date": "2026-09-18",
-      "summary": "Tantan, one of Asia-Pacific’s largest dating apps, is expanding its fitness and social events across the region. The company has The post Tantan Joins the Move Towards IRL Dating Events first appeared on Global Dating Insights . The post Tantan Joins the Move ",
-      "url": "https://www.globaldatinginsights.com/featured/tantan-irl-fitness-dating-events/"
     }
   ]
 }
