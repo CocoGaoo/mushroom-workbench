@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-25",
-  "generatedAt": "2026-09-25T01:23:02.210976+00:00",
+  "date": "2026-09-26",
+  "generatedAt": "2026-09-26T01:26:22.306457+00:00",
   "courses": {
     "english": {
-      "id": "english-2026-09-25-1",
-      "title": "Everyday English｜旅行团集合",
+      "id": "english-2026-09-26-1",
+      "title": "Everyday English｜商店退换",
       "focus": "关注问题、请求和确认三步；遮住中文复述情节，再核对遗漏。",
       "paragraphs": [
-        "Today I need to handle a problem during my trip. I booked the morning walking tour. I take a breath and explain the situation in one short sentence. I give the important details first, because the other person needs to know what happened before they can help me.",
-        "Then I make a clear and polite request: ‘Could you show me the meeting point?’ I listen for the key information, especially a time, place, price, or next action. If I miss a word, I ask the other person to say it again more slowly.",
+        "Today I need to handle a problem during my trip. I bought this yesterday, but it does not work. I take a breath and explain the situation in one short sentence. I give the important details first, because the other person needs to know what happened before they can help me.",
+        "Then I make a clear and polite request: ‘May I exchange it with this receipt?’ I listen for the key information, especially a time, place, price, or next action. If I miss a word, I ask the other person to say it again more slowly.",
         "Before I leave, I repeat the plan in my own words. This gives the other person a chance to correct me. I do not need perfect grammar: explain what happened, ask for what I need, and confirm what I will do next."
       ],
       "translations": [
-        "今天练习旅行团集合。我先用一句短句说清情况：I booked the morning walking tour.",
-        "接着礼貌提出请求：Could you show me the meeting point?，重点听时间、地点、价格或下一步。",
+        "今天练习商店退换。我先用一句短句说清情况：I bought this yesterday, but it does not work.",
+        "接着礼貌提出请求：May I exchange it with this receipt?，重点听时间、地点、价格或下一步。",
         "离开前用自己的话复述方案。解决问题不需要完美语法，按说明、请求、确认三步即可。"
       ],
       "words": [
         [
-          "meeting point",
-          "旅行团集合",
-          "I booked the morning walking tour."
+          "receipt",
+          "商店退换",
+          "I bought this yesterday, but it does not work."
         ],
         [
           "explain",
@@ -57,16 +57,16 @@
       ],
       "correct": 1,
       "explanation": "请求放慢并复述能降低听力压力和误解风险。",
-      "apply": "用旅行团集合场景录一段30秒语音，包含问题、请求和确认。",
-      "example": "I booked the morning walking tour. Could you show me the meeting point? Let me confirm what I should do next."
+      "apply": "用商店退换场景录一段30秒语音，包含问题、请求和确认。",
+      "example": "I bought this yesterday, but it does not work. May I exchange it with this receipt? Let me confirm what I should do next."
     },
     "economics": {
-      "id": "economics-2026-09-25-1",
-      "title": "沉没成本｜已经投入很多还要继续吗",
+      "id": "economics-2026-09-26-1",
+      "title": "信息不对称｜用户为何不敢进陌生房",
       "focus": "关注机制、替代解释和下一步。第2轮练习。",
       "paragraphs": [
-        "今天的核心是：过去且不可收回的投入不应决定下一步。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
-        "具体例子：评估旧活动时用未来新增收益与未来成本比较，不因已投入运营工时就继续低效活动。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
+        "今天的核心是：双方掌握的信息不同会增加决策成本。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
+        "具体例子：用真实标签、活跃状态和近期内容样本降低不确定性，再看高意向用户的点击是否改善。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
         "应用时问三个问题：如果这个解释成立，什么会先变化？还有什么原因会造成同样现象？最小验证动作是什么？这个顺序能把模糊感受变成可检查的判断，并帮助你说明结论的边界。"
       ],
       "remember": "合上内容后复述：现象—机制—替代解释—验证动作。",
@@ -79,15 +79,15 @@
       "correct": 2,
       "explanation": "能连接现象、机制和证据，概念才会帮助决策。",
       "apply": "选一个今天的真实现象，写一个机制假设、一个替代解释和最小验证。",
-      "example": "评估旧活动时用未来新增收益与未来成本比较，不因已投入运营工时就继续低效活动。"
+      "example": "用真实标签、活跃状态和近期内容样本降低不确定性，再看高意向用户的点击是否改善。"
     },
     "psychology": {
-      "id": "psychology-2026-09-25-1",
-      "title": "注意力残留｜频繁切换为何更累",
+      "id": "psychology-2026-09-26-1",
+      "title": "自我同情｜像对待朋友一样校准要求",
       "focus": "关注机制、替代解释和下一步。第2轮练习。",
       "paragraphs": [
-        "今天的核心是：切换后部分注意仍停留在上一件事。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
-        "具体例子：结束任务前写一句下一步和卡点，再切换；回来时直接从记录继续。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
+        "今天的核心是：承认困难并给出支持。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
+        "具体例子：把苛责句改成‘我现在很乱，但可以先完成最小版本’。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
         "应用时问三个问题：如果这个解释成立，什么会先变化？还有什么原因会造成同样现象？最小验证动作是什么？这个顺序能把模糊感受变成可检查的判断，并帮助你说明结论的边界。"
       ],
       "remember": "合上内容后复述：现象—机制—替代解释—验证动作。",
@@ -100,30 +100,30 @@
       "correct": 2,
       "explanation": "能连接现象、机制和证据，概念才会帮助决策。",
       "apply": "选一个今天的真实现象，写一个机制假设、一个替代解释和最小验证。",
-      "example": "结束任务前写一句下一步和卡点，再切换；回来时直接从记录继续。"
+      "example": "把苛责句改成‘我现在很乱，但可以先完成最小版本’。"
     }
   },
   "news": [
     {
-      "id": "gdi-2026-09-25-0",
-      "title": "Former Tinder Executive Launches Dating App Rivet With $10.5M in Funding",
-      "date": "2026-09-24",
-      "summary": "Former Tinder and Match Group executive Taru Kapoor has launched dating app Rivet across the US. Rivet has raised $10.5 The post Former Tinder Executive Launches Dating App Rivet With $10.5M in Funding first appeared on Global Dating Insights . Source: Global ",
-      "url": "https://www.globaldatinginsights.com/featured/rivet-dating-app-taru-kapoor-10-5m-funding/"
+      "id": "gdi-2026-09-26-0",
+      "title": "Three Day Rule Relaunches Matchmaking App With AI and Human Support",
+      "date": "2026-09-25",
+      "summary": "Three Day Rule has released a new version of its matchmaking app. The company has added Tai, an AI matchmaking The post Three Day Rule Relaunches Matchmaking App With AI and Human Support first appeared on Global Dating Insights . Source: Global Dating Insight",
+      "url": "https://www.globaldatinginsights.com/featured/three-day-rule-matchmaking-app-ai/"
     },
     {
-      "id": "gdi-2026-09-25-1",
-      "title": "Tinder and Hinge Rank Among UK’s Highest-Grossing Apps",
-      "date": "2026-09-24",
-      "summary": "Despite all the talk about dating app fatigue, Tinder and Hinge are still among the UK’s highest-grossing mobile apps. According The post Tinder and Hinge Rank Among UK’s Highest-Grossing Apps first appeared on Global Dating Insights . Source: Global Dating In",
-      "url": "https://www.globaldatinginsights.com/research-news/tinder-hinge-uk-highest-grossing-apps/"
+      "id": "gdi-2026-09-26-1",
+      "title": "Tinder Swindler Wants to Launch Dating App to Protect Women",
+      "date": "2026-09-25",
+      "summary": "Simon Leviev (born Shimon Hayut), better known as the “Tinder Swindler,” is planning a return to online dating. This time, The post Tinder Swindler Wants to Launch Dating App to Protect Women first appeared on Global Dating Insights . Source: Global Dating Ins",
+      "url": "https://www.globaldatinginsights.com/featured/tinder-swindler-safe-love-dating-app/"
     },
     {
-      "id": "gdi-2026-09-25-2",
-      "title": "AI Romance Is Starting to Feel Real",
-      "date": "2026-09-24",
-      "summary": "A South Korean reality show is testing a question that would have sounded bizarre a few years ago. Can people The post AI Romance Is Starting to Feel Real first appeared on Global Dating Insights . Source: Global Dating Insights The post AI Romance Is Starting",
-      "url": "https://www.globaldatinginsights.com/research/people-falling-for-ai-companions/"
+      "id": "gdi-2026-09-26-2",
+      "title": "Match Group Sued Over Access to Dating App Safety Records",
+      "date": "2026-09-25",
+      "summary": "A Match Group shareholder has sued the company to find out what its board knew about reports of sexual assault The post Match Group Sued Over Access to Dating App Safety Records first appeared on Global Dating Insights . Source: Global Dating Insights The post",
+      "url": "https://www.globaldatinginsights.com/featured/match-group-lawsuit-dating-app-safety-records/"
     }
   ]
 }
