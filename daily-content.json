@@ -1,26 +1,26 @@
 {
-  "date": "2026-10-02",
-  "generatedAt": "2026-10-02T02:07:38.324550+00:00",
+  "date": "2026-10-03",
+  "generatedAt": "2026-10-03T01:51:37.591073+00:00",
   "courses": {
     "english": {
-      "id": "english-2026-10-02-2",
-      "title": "Everyday English｜药房沟通",
+      "id": "english-2026-10-03-2",
+      "title": "Everyday English｜旅行团集合",
       "focus": "关注问题、请求和确认三步；替换地点和时间，口头造一个新版本。",
       "paragraphs": [
-        "Today I need to handle a problem during my trip. I have had a sore throat since yesterday. I take a breath and explain the situation in one short sentence. I give the important details first, because the other person needs to know what happened before they can help me.",
-        "Then I make a clear and polite request: ‘Is there anything suitable for this?’ I listen for the key information, especially a time, place, price, or next action. If I miss a word, I ask the other person to say it again more slowly.",
+        "Today I need to handle a problem during my trip. I booked the morning walking tour. I take a breath and explain the situation in one short sentence. I give the important details first, because the other person needs to know what happened before they can help me.",
+        "Then I make a clear and polite request: ‘Could you show me the meeting point?’ I listen for the key information, especially a time, place, price, or next action. If I miss a word, I ask the other person to say it again more slowly.",
         "Before I leave, I repeat the plan in my own words. This gives the other person a chance to correct me. I do not need perfect grammar: explain what happened, ask for what I need, and confirm what I will do next."
       ],
       "translations": [
-        "今天练习药房沟通。我先用一句短句说清情况：I have had a sore throat since yesterday.",
-        "接着礼貌提出请求：Is there anything suitable for this?，重点听时间、地点、价格或下一步。",
+        "今天练习旅行团集合。我先用一句短句说清情况：I booked the morning walking tour.",
+        "接着礼貌提出请求：Could you show me the meeting point?，重点听时间、地点、价格或下一步。",
         "离开前用自己的话复述方案。解决问题不需要完美语法，按说明、请求、确认三步即可。"
       ],
       "words": [
         [
-          "symptom",
-          "药房沟通",
-          "I have had a sore throat since yesterday."
+          "meeting point",
+          "旅行团集合",
+          "I booked the morning walking tour."
         ],
         [
           "explain",
@@ -57,16 +57,16 @@
       ],
       "correct": 1,
       "explanation": "请求放慢并复述能降低听力压力和误解风险。",
-      "apply": "用药房沟通场景录一段30秒语音，包含问题、请求和确认。",
-      "example": "I have had a sore throat since yesterday. Is there anything suitable for this? Let me confirm what I should do next."
+      "apply": "用旅行团集合场景录一段30秒语音，包含问题、请求和确认。",
+      "example": "I booked the morning walking tour. Could you show me the meeting point? Let me confirm what I should do next."
     },
     "economics": {
-      "id": "economics-2026-10-02-2",
-      "title": "网络效应｜人越多产品一定越好吗",
+      "id": "economics-2026-10-03-2",
+      "title": "沉没成本｜已经投入很多还要继续吗",
       "focus": "关注机制、替代解释和下一步。第3轮练习。",
       "paragraphs": [
-        "今天的核心是：用户增加只有在提高他人价值时才形成网络效应。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
-        "具体例子：人数增加可能提升热闹感，也可能降低发言机会；应分别看听众留存和上麦成功率。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
+        "今天的核心是：过去且不可收回的投入不应决定下一步。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
+        "具体例子：评估旧活动时用未来新增收益与未来成本比较，不因已投入运营工时就继续低效活动。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
         "应用时问三个问题：如果这个解释成立，什么会先变化？还有什么原因会造成同样现象？最小验证动作是什么？这个顺序能把模糊感受变成可检查的判断，并帮助你说明结论的边界。"
       ],
       "remember": "合上内容后复述：现象—机制—替代解释—验证动作。",
@@ -79,15 +79,15 @@
       "correct": 2,
       "explanation": "能连接现象、机制和证据，概念才会帮助决策。",
       "apply": "选一个今天的真实现象，写一个机制假设、一个替代解释和最小验证。",
-      "example": "人数增加可能提升热闹感，也可能降低发言机会；应分别看听众留存和上麦成功率。"
+      "example": "评估旧活动时用未来新增收益与未来成本比较，不因已投入运营工时就继续低效活动。"
     },
     "psychology": {
-      "id": "psychology-2026-10-02-2",
-      "title": "实施意图｜用如果那么降低启动成本",
+      "id": "psychology-2026-10-03-2",
+      "title": "注意力残留｜频繁切换为何更累",
       "focus": "关注机制、替代解释和下一步。第3轮练习。",
       "paragraphs": [
-        "今天的核心是：提前把触发场景与小动作绑定。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
-        "具体例子：写‘如果我打开电脑仍不知从哪开始，那么我先写任务标题并计时五分钟’。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
+        "今天的核心是：切换后部分注意仍停留在上一件事。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
+        "具体例子：结束任务前写一句下一步和卡点，再切换；回来时直接从记录继续。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
         "应用时问三个问题：如果这个解释成立，什么会先变化？还有什么原因会造成同样现象？最小验证动作是什么？这个顺序能把模糊感受变成可检查的判断，并帮助你说明结论的边界。"
       ],
       "remember": "合上内容后复述：现象—机制—替代解释—验证动作。",
@@ -100,30 +100,30 @@
       "correct": 2,
       "explanation": "能连接现象、机制和证据，概念才会帮助决策。",
       "apply": "选一个今天的真实现象，写一个机制假设、一个替代解释和最小验证。",
-      "example": "写‘如果我打开电脑仍不知从哪开始，那么我先写任务标题并计时五分钟’。"
+      "example": "结束任务前写一句下一步和卡点，再切换；回来时直接从记录继续。"
     }
   },
   "news": [
     {
-      "id": "gdi-2026-10-02-0",
+      "id": "gdi-2026-10-03-0",
+      "title": "CatholicMatch Acquires Brazil’s Ágape Dating App",
+      "date": "2026-10-02",
+      "summary": "CatholicMatch has acquired Ágape, a Brazilian dating app for Catholic singles. The deal expands CatholicMatch’s presence in Brazil, one of Source: Global Dating Insights",
+      "url": "https://www.globaldatinginsights.com/uncategorised/catholicmatch-acquires-agape-brazil-dating-app/"
+    },
+    {
+      "id": "gdi-2026-10-03-1",
       "title": "Muzz Founder Shahzad Younas on Building the World’s Largest Muslim Dating App",
       "date": "2026-10-01",
       "summary": "Muzz founder Shahzad Younas has opened up about the growth of his Muslim dating and marriage app Muzz, including his Source: Global Dating Insights",
       "url": "https://www.globaldatinginsights.com/uncategorised/muzz-shahzad-younas-growth-match-group-offer/"
     },
     {
-      "id": "gdi-2026-10-02-1",
+      "id": "gdi-2026-10-03-2",
       "title": "Feeld Annual Revenue Jumps 31% to $85 Million",
       "date": "2026-10-01",
       "summary": "Feeld generated $85 million (£64.4 million) in revenue in 2025, up 31% from the previous year. The dating app also Source: Global Dating Insights",
       "url": "https://www.globaldatinginsights.com/from-the-web/feeld-revenue-2025-85-million/"
-    },
-    {
-      "id": "gdi-2026-10-02-2",
-      "title": "Grindr Agrees to Buy HIV-Prevention Provider Freddie for $250 Million",
-      "date": "2026-10-01",
-      "summary": "Grindr has agreed to acquire PurposeMed, the company behind HIV-prevention provider Freddie, for $250 million. It is Grindr’s first major Source: Global Dating Insights",
-      "url": "https://www.globaldatinginsights.com/featured/grindr-freddie-acquisition-hiv-prevention/"
     }
   ]
 }
