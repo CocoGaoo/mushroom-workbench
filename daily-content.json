@@ -1,26 +1,26 @@
 {
-  "date": "2026-10-06",
-  "generatedAt": "2026-10-06T02:52:45.616323+00:00",
+  "date": "2026-10-07",
+  "generatedAt": "2026-10-07T02:14:05.956967+00:00",
   "courses": {
     "english": {
-      "id": "english-2026-10-06-2",
-      "title": "Everyday English｜求助电话",
-      "focus": "关注问题、请求和确认三步；替换地点和时间，口头造一个新版本。",
+      "id": "english-2026-10-07-3",
+      "title": "Everyday English｜酒店入住",
+      "focus": "关注问题、请求和确认三步；录下复述，第二遍只修一个问题。",
       "paragraphs": [
-        "Today I need to handle a problem during my trip. I am near the north entrance of the station. I take a breath and explain the situation in one short sentence. I give the important details first, because the other person needs to know what happened before they can help me.",
-        "Then I make a clear and polite request: ‘Could you tell me what to do next?’ I listen for the key information, especially a time, place, price, or next action. If I miss a word, I ask the other person to say it again more slowly.",
+        "Today I need to handle a problem during my trip. The room does not match my reservation. I take a breath and explain the situation in one short sentence. I give the important details first, because the other person needs to know what happened before they can help me.",
+        "Then I make a clear and polite request: ‘Could you check the booking again?’ I listen for the key information, especially a time, place, price, or next action. If I miss a word, I ask the other person to say it again more slowly.",
         "Before I leave, I repeat the plan in my own words. This gives the other person a chance to correct me. I do not need perfect grammar: explain what happened, ask for what I need, and confirm what I will do next."
       ],
       "translations": [
-        "今天练习求助电话。我先用一句短句说清情况：I am near the north entrance of the station.",
-        "接着礼貌提出请求：Could you tell me what to do next?，重点听时间、地点、价格或下一步。",
+        "今天练习酒店入住。我先用一句短句说清情况：The room does not match my reservation.",
+        "接着礼貌提出请求：Could you check the booking again?，重点听时间、地点、价格或下一步。",
         "离开前用自己的话复述方案。解决问题不需要完美语法，按说明、请求、确认三步即可。"
       ],
       "words": [
         [
-          "location",
-          "求助电话",
-          "I am near the north entrance of the station."
+          "reservation",
+          "酒店入住",
+          "The room does not match my reservation."
         ],
         [
           "explain",
@@ -48,7 +48,7 @@
           "What should I do next?"
         ]
       ],
-      "remember": "说明问题—提出请求—复述确认。替换地点和时间，口头造一个新版本。",
+      "remember": "说明问题—提出请求—复述确认。录下复述，第二遍只修一个问题。",
       "question": "没听清时最有效的做法是什么？",
       "options": [
         "假装听懂。",
@@ -57,16 +57,16 @@
       ],
       "correct": 1,
       "explanation": "请求放慢并复述能降低听力压力和误解风险。",
-      "apply": "用求助电话场景录一段30秒语音，包含问题、请求和确认。",
-      "example": "I am near the north entrance of the station. Could you tell me what to do next? Let me confirm what I should do next."
+      "apply": "用酒店入住场景录一段30秒语音，包含问题、请求和确认。",
+      "example": "The room does not match my reservation. Could you check the booking again? Let me confirm what I should do next."
     },
     "economics": {
-      "id": "economics-2026-10-06-2",
-      "title": "激励相容｜奖励为何会带偏行为",
-      "focus": "关注机制、替代解释和下一步。第3轮练习。",
+      "id": "economics-2026-10-07-3",
+      "title": "供需错配｜好房间为何遇不到付费用户",
+      "focus": "关注机制、替代解释和下一步。第4轮练习。",
       "paragraphs": [
-        "今天的核心是：规则应让个人最优行为接近平台目标。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
-        "具体例子：若只奖励开房时长，主播可能挂机；把有效互动、健康留存和投诉率一起纳入更接近目标。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
+        "今天的核心是：供给存在不等于匹配有效。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
+        "具体例子：把高质量房间按用户付费意愿、兴趣和在线时段分层，观察匹配后的进房与付费，而不是只看总曝光。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
         "应用时问三个问题：如果这个解释成立，什么会先变化？还有什么原因会造成同样现象？最小验证动作是什么？这个顺序能把模糊感受变成可检查的判断，并帮助你说明结论的边界。"
       ],
       "remember": "合上内容后复述：现象—机制—替代解释—验证动作。",
@@ -79,15 +79,15 @@
       "correct": 2,
       "explanation": "能连接现象、机制和证据，概念才会帮助决策。",
       "apply": "选一个今天的真实现象，写一个机制假设、一个替代解释和最小验证。",
-      "example": "若只奖励开房时长，主播可能挂机；把有效互动、健康留存和投诉率一起纳入更接近目标。"
+      "example": "把高质量房间按用户付费意愿、兴趣和在线时段分层，观察匹配后的进房与付费，而不是只看总曝光。"
     },
     "psychology": {
-      "id": "psychology-2026-10-06-2",
-      "title": "证据检查｜把事实和预测分开",
-      "focus": "关注机制、替代解释和下一步。第3轮练习。",
+      "id": "psychology-2026-10-07-3",
+      "title": "认知解离｜把想法看成一句话",
+      "focus": "关注机制、替代解释和下一步。第4轮练习。",
       "paragraphs": [
-        "今天的核心是：焦虑预测需要和可观察证据分列。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
-        "具体例子：写支持证据、反对证据和未知信息，最后选择一个能增加信息的小动作。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
+        "今天的核心是：想法是心理事件，不自动等于事实。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
+        "具体例子：把‘我一定做不好’改写成‘我注意到自己正在想：我一定做不好’，再选择一个五分钟动作。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
         "应用时问三个问题：如果这个解释成立，什么会先变化？还有什么原因会造成同样现象？最小验证动作是什么？这个顺序能把模糊感受变成可检查的判断，并帮助你说明结论的边界。"
       ],
       "remember": "合上内容后复述：现象—机制—替代解释—验证动作。",
@@ -100,30 +100,30 @@
       "correct": 2,
       "explanation": "能连接现象、机制和证据，概念才会帮助决策。",
       "apply": "选一个今天的真实现象，写一个机制假设、一个替代解释和最小验证。",
-      "example": "写支持证据、反对证据和未知信息，最后选择一个能增加信息的小动作。"
+      "example": "把‘我一定做不好’改写成‘我注意到自己正在想：我一定做不好’，再选择一个五分钟动作。"
     }
   },
   "news": [
     {
-      "id": "gdi-2026-10-06-0",
-      "title": "Networking App Clockout Announces $3.5 Million in Total Funding",
-      "date": "2026-10-05",
-      "summary": "Clockout has announced $3.5 million in total funding since its founding. The app helps young professionals find nearby peers, clubs Source: Global Dating Insights",
-      "url": "https://www.globaldatinginsights.com/featured/clockout-networking-app-3-5-million-funding/"
+      "id": "gdi-2026-10-07-0",
+      "title": "Black Dating App BLK Launches Events Feature in 29 US Cities",
+      "date": "2026-10-06",
+      "summary": "Match Group-owned dating app BLK has launched an Events feature across 29 US cities, giving Black singles a new way Source: Global Dating Insights",
+      "url": "https://www.globaldatinginsights.com/featured/blk-events-feature-29-us-cities/"
     },
     {
-      "id": "gdi-2026-10-06-1",
-      "title": "Dating App Pure Named in $1 Million Lawsuit Following Alleged Assault of Minor",
-      "date": "2026-10-05",
-      "summary": "Dating app Pure has been named in a $1 million lawsuit filed by the family of a 13-year-old girl in Source: Global Dating Insights",
-      "url": "https://www.globaldatinginsights.com/from-the-web/pure-dating-app-million-dollar-lawsuit/"
+      "id": "gdi-2026-10-07-1",
+      "title": "Perry Street Software Acquires Gay Bear Dating App GROWLr From The Meet Group",
+      "date": "2026-10-06",
+      "summary": "Perry Street Software (PSS), the company behind gay dating apps SCRUFF and Jack’d, has acquired gay dating and community app Source: Global Dating Insights",
+      "url": "https://www.globaldatinginsights.com/featured/perry-street-software-acquires-growlr/"
     },
     {
-      "id": "gdi-2026-10-06-2",
-      "title": "Google Faces £1bn UK Claim Over Play Store Charges",
-      "date": "2026-10-05",
-      "summary": "Google faces a UK class action seeking more than £1 billion in damages over commissions charged through its Play Store. Source: Global Dating Insights",
-      "url": "https://www.globaldatinginsights.com/from-the-web/google-play-store-uk-class-action-1bn/"
+      "id": "gdi-2026-10-07-2",
+      "title": "Match Group CEO Says Dating and Matrimony Are Moving Closer in India",
+      "date": "2026-10-06",
+      "summary": "Match Group CEO Spencer Rascoff says dating apps increasingly compete with matrimonial services in India. As more users seek serious Source: Global Dating Insights",
+      "url": "https://www.globaldatinginsights.com/from-the-web/match-group-india-dating-matrimony/"
     }
   ]
 }
