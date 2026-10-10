@@ -1,26 +1,26 @@
 {
-  "date": "2026-10-09",
-  "generatedAt": "2026-10-09T02:53:59.663556+00:00",
+  "date": "2026-10-10",
+  "generatedAt": "2026-10-10T02:14:38.025682+00:00",
   "courses": {
     "english": {
-      "id": "english-2026-10-09-3",
-      "title": "Everyday English｜火车延误",
+      "id": "english-2026-10-10-3",
+      "title": "Everyday English｜药房沟通",
       "focus": "关注问题、请求和确认三步；录下复述，第二遍只修一个问题。",
       "paragraphs": [
-        "Today I need to handle a problem during my trip. My train has been delayed. I take a breath and explain the situation in one short sentence. I give the important details first, because the other person needs to know what happened before they can help me.",
-        "Then I make a clear and polite request: ‘What is the fastest alternative route?’ I listen for the key information, especially a time, place, price, or next action. If I miss a word, I ask the other person to say it again more slowly.",
+        "Today I need to handle a problem during my trip. I have had a sore throat since yesterday. I take a breath and explain the situation in one short sentence. I give the important details first, because the other person needs to know what happened before they can help me.",
+        "Then I make a clear and polite request: ‘Is there anything suitable for this?’ I listen for the key information, especially a time, place, price, or next action. If I miss a word, I ask the other person to say it again more slowly.",
         "Before I leave, I repeat the plan in my own words. This gives the other person a chance to correct me. I do not need perfect grammar: explain what happened, ask for what I need, and confirm what I will do next."
       ],
       "translations": [
-        "今天练习火车延误。我先用一句短句说清情况：My train has been delayed.",
-        "接着礼貌提出请求：What is the fastest alternative route?，重点听时间、地点、价格或下一步。",
+        "今天练习药房沟通。我先用一句短句说清情况：I have had a sore throat since yesterday.",
+        "接着礼貌提出请求：Is there anything suitable for this?，重点听时间、地点、价格或下一步。",
         "离开前用自己的话复述方案。解决问题不需要完美语法，按说明、请求、确认三步即可。"
       ],
       "words": [
         [
-          "delay",
-          "火车延误",
-          "My train has been delayed."
+          "symptom",
+          "药房沟通",
+          "I have had a sore throat since yesterday."
         ],
         [
           "explain",
@@ -57,16 +57,16 @@
       ],
       "correct": 1,
       "explanation": "请求放慢并复述能降低听力压力和误解风险。",
-      "apply": "用火车延误场景录一段30秒语音，包含问题、请求和确认。",
-      "example": "My train has been delayed. What is the fastest alternative route? Let me confirm what I should do next."
+      "apply": "用药房沟通场景录一段30秒语音，包含问题、请求和确认。",
+      "example": "I have had a sore throat since yesterday. Is there anything suitable for this? Let me confirm what I should do next."
     },
     "economics": {
-      "id": "economics-2026-10-09-3",
-      "title": "价格分层｜同一服务为何有不同套餐",
+      "id": "economics-2026-10-10-3",
+      "title": "网络效应｜人越多产品一定越好吗",
       "focus": "关注机制、替代解释和下一步。第4轮练习。",
       "paragraphs": [
-        "今天的核心是：按需求差异设计版本能提高匹配效率。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
-        "具体例子：会员可按权益组合分层，但要保证规则透明，并观察套餐是否扩大付费而非只迁移老用户。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
+        "今天的核心是：用户增加只有在提高他人价值时才形成网络效应。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
+        "具体例子：人数增加可能提升热闹感，也可能降低发言机会；应分别看听众留存和上麦成功率。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
         "应用时问三个问题：如果这个解释成立，什么会先变化？还有什么原因会造成同样现象？最小验证动作是什么？这个顺序能把模糊感受变成可检查的判断，并帮助你说明结论的边界。"
       ],
       "remember": "合上内容后复述：现象—机制—替代解释—验证动作。",
@@ -79,15 +79,15 @@
       "correct": 2,
       "explanation": "能连接现象、机制和证据，概念才会帮助决策。",
       "apply": "选一个今天的真实现象，写一个机制假设、一个替代解释和最小验证。",
-      "example": "会员可按权益组合分层，但要保证规则透明，并观察套餐是否扩大付费而非只迁移老用户。"
+      "example": "人数增加可能提升热闹感，也可能降低发言机会；应分别看听众留存和上麦成功率。"
     },
     "psychology": {
-      "id": "psychology-2026-10-09-3",
-      "title": "情绪标记｜准确命名会降低混乱",
+      "id": "psychology-2026-10-10-3",
+      "title": "实施意图｜用如果那么降低启动成本",
       "focus": "关注机制、替代解释和下一步。第4轮练习。",
       "paragraphs": [
-        "今天的核心是：具体区分担心、失望、疲惫和羞耻。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
-        "具体例子：写‘我现在更接近___，强度是10分中的___’，再判断需要信息、休息还是行动。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
+        "今天的核心是：提前把触发场景与小动作绑定。这个概念不是一句口号，而是帮助我们拆开现象、条件和行动。先描述发生了什么，再说明哪些是事实、哪些是解释，最后写出一个能够观察的变化。",
+        "具体例子：写‘如果我打开电脑仍不知从哪开始，那么我先写任务标题并计时五分钟’。 把动作做小，是为了降低启动成本并获得新信息。不要把一次结果当成永久结论，也不要用示例数字代替真实数据；先标清假设，再决定怎样验证。",
         "应用时问三个问题：如果这个解释成立，什么会先变化？还有什么原因会造成同样现象？最小验证动作是什么？这个顺序能把模糊感受变成可检查的判断，并帮助你说明结论的边界。"
       ],
       "remember": "合上内容后复述：现象—机制—替代解释—验证动作。",
@@ -100,30 +100,30 @@
       "correct": 2,
       "explanation": "能连接现象、机制和证据，概念才会帮助决策。",
       "apply": "选一个今天的真实现象，写一个机制假设、一个替代解释和最小验证。",
-      "example": "写‘我现在更接近___，强度是10分中的___’，再判断需要信息、休息还是行动。"
+      "example": "写‘如果我打开电脑仍不知从哪开始，那么我先写任务标题并计时五分钟’。"
     }
   },
   "news": [
     {
-      "id": "gdi-2026-10-09-0",
-      "title": "GDI London 2026 – Conference Highlights",
-      "date": "2026-10-08",
-      "summary": "The GDI London Conference took place last month at the Richmond Hill Hotel, bringing together dating industry leaders from around Source: Global Dating Insights",
-      "url": "https://www.globaldatinginsights.com/featured/gdi-london-2026-conference-highlights/"
+      "id": "gdi-2026-10-10-0",
+      "title": "Dixner Acquires CrushParty to Launch Singles Events Brand",
+      "date": "2026-10-09",
+      "summary": "French social experiences company Dixner has acquired CrushParty, marking its first acquisition and expansion into the singles market. The company Source: Global Dating Insights",
+      "url": "https://www.globaldatinginsights.com/featured/dixner-acquires-crushparty-singles-events/"
     },
     {
-      "id": "gdi-2026-10-09-1",
-      "title": "Former Tinder and Bumble Sociologist Jessica Carbino Announces Her New Book",
-      "date": "2026-10-07",
-      "summary": "Dr. Jessica Carbino, former sociologist at Tinder and Bumble, has announced her new book, Better Love. The book is now Source: Global Dating Insights",
-      "url": "https://www.globaldatinginsights.com/uncategorised/former-tinder-and-bumble-sociologist-jessica-carbino-announces-her-new-book/"
+      "id": "gdi-2026-10-10-1",
+      "title": "ODDA Launches Consumer Safety Panel to Shape Dating App Standards",
+      "date": "2026-10-09",
+      "summary": "The Online Dating and Discovery Association (ODDA), which represents dating and social discovery companies, has launched a Consumer Safety Panel Source: Global Dating Insights",
+      "url": "https://www.globaldatinginsights.com/featured/odda-consumer-safety-panel-dating-apps/"
     },
     {
-      "id": "gdi-2026-10-09-2",
-      "title": "Yoti Named Among UK’s Fastest-Growing Companies by Financial Times",
-      "date": "2026-10-07",
-      "summary": "Digital identity company Yoti has increased annual revenue more than fivefold in three years, as demand for age, identity and Source: Global Dating Insights",
-      "url": "https://www.globaldatinginsights.com/featured/yoti-uk-fastest-growing-companies/"
+      "id": "gdi-2026-10-10-2",
+      "title": "Aisle Survey: 51% of Indian Singles Use AI to Write Dating Messages",
+      "date": "2026-10-09",
+      "summary": "Indian dating app Aisle has released its 2026 industry report, How India Is Using Technology to Navigate Love, examining how Source: Global Dating Insights",
+      "url": "https://www.globaldatinginsights.com/featured/aisle-ai-dating-survey-india-2026/"
     }
   ]
 }
